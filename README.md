@@ -11,6 +11,7 @@
 |网卡|Intel Dual Band Wireless-AC 7265|
 |声卡|Realtek ALC221|
 |SMBIOS|Mac mini (2018)| 
+|BIOS|N23 Ver.02.49 07/12/2020| 
 |引导|OpenCore 0.62| 
 
 ## 实现功能
